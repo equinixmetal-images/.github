@@ -1,4 +1,4 @@
-# .github# .github
+# .github
 
 This repo contains shared community resources that will propagate to all public repositories that don't already contain the resource.
 
